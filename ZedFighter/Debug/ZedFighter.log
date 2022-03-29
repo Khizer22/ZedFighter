@@ -1,0 +1,5 @@
+﻿  ZedFighter.cpp
+d:\gamedev\game-253-ooanalysisdesign\zedfighter\zedfighter\zedfighter\zedfighter.cpp(55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\gamedev\game-253-ooanalysisdesign\zedfighter\zedfighter\zedfighter\zedfighter.cpp(61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  ZedFighter.vcxproj -> D:\GameDev\Game-253-OOAnalysisDesign\ZedFighter\ZedFighter\Debug\ZedFighter.exe
+  ZedFighter.vcxproj -> D:\GameDev\Game-253-OOAnalysisDesign\ZedFighter\ZedFighter\Debug\ZedFighter.pdb (Full PDB)
