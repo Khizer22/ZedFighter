@@ -1,2 +1,3 @@
 # ZedFighter
-An old project from school
+
+Topdown shooter game created in college
